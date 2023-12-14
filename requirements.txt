@@ -4,3 +4,4 @@ ipykernel
 notebook
 nbconvert
 PyPDF2
+matplotlib
