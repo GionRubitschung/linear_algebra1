@@ -1,7 +1,0 @@
-numpy
-flake8
-ipykernel
-notebook
-nbconvert
-PyPDF2
-matplotlib

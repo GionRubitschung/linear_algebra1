@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "linear-algebra1"
+version = "0.1.0"
+description = ""
+authors = ["Gion Rubitschung <gionrubi@proton.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.3"
+flake8 = "^7.0.0"
+ipykernel = "^6.28.0"
+notebook = "^7.0.6"
+nbconvert = "^7.14.1"
+pypdf2 = "^3.0.1"
+matplotlib = "^3.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
